@@ -1,5 +1,5 @@
 # Linux SysAdmin Bootcamp
-A historical record of an incredibly effective curriculum for learning to be Linux SysAdmin that came in the form of a Reddit comment.
+A historical record of an incredibly effective curriculum for learning to be a Linux systems administrator that came in the surprising form of a Reddit comment.
 
 ### :no_entry: NOTICE
 
