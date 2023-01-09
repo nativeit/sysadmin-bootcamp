@@ -35,7 +35,7 @@ I began my career a few years later, and to this day the knowledge I picked up r
 17. Now go back and create Puppet manifests to ensure that every last one of these machines is authenticating to the LDAP servers, registered to the Spacewalk server, and backed up by the `bakula` server.
 18. Now go back, reference your documents, and set up a Puppet Razor profile that hooks into each of these things to allow you to recreate, from scratch, each individual server.
 19. Destroy every secondary machine you've created and use the above profile to recreate them, joining them to the clusters as needed.
-20. **Bonus exercise **: Create three more VMs. A CentOS 5, 6, and 7 machine. On each of these machines, set them up to allow you to create custom RPMs and import them into the Spacewalk server instance. Ensure your Puppet configurations work for all three and produce like-for-like behaviors.
+20. **Bonus exercise**: Create three more VMs. A CentOS 5, 6, and 7 machine. On each of these machines, set them up to allow you to create custom RPMs and import them into the Spacewalk server instance. Ensure your Puppet configurations work for all three and produce like-for-like behaviors.
 
 ---
 
