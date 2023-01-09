@@ -10,7 +10,7 @@ _The content below was taken from a Reddit comment ( [`link`](https://www.reddit
 
 ## Background
 
-I used this as a first-pass guide to creating a curriculum to teach myself systems administration fundamentals, and to begin an in-depth education in Linux and servers to broaden my professional credentials and experience, as well as to improve my existing capabilities as a website developer. It turned out to be crucial to those goals, and is one of the more successful endeavors I have ever undertaken. To help with the effort, I opted to install a Linux desktop distribution on my daily-driver PC and immerse myself with the Linux ecosystem. It took me roughly six months from the weekend I set up my home lab to when I took most of it down and moved my servers onto Linode VPS’s.
+In 2012, I personally used this as a first-pass guide to creating a curriculum to teach myself systems administration fundamentals, and to begin an in-depth education in Linux and servers to broaden my professional credentials and experience, as well as to improve my existing capabilities as a website developer. It turned out to be crucial to those goals, and is one of the more successful endeavors I have ever undertaken. To help with the effort, I opted to install a Linux desktop distribution on my daily-driver PC and immerse myself with the Linux ecosystem. It took me roughly six months from the weekend I set up my home lab to when I took most of it down and moved my servers onto Linode VPS’s.
 
 I began my career a few years later, and to this day the knowledge I picked up remains relevant and invaluable.
 
