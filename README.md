@@ -1,5 +1,5 @@
 # Linux SysAdmin Bootcamp
-A historical record of an incredibly effective curriculum for learning to be a Linux systems administrator that came in the surprising form of a Reddit comment.
+A historical record of an incredibly effective curriculum that has been shared among enthusiasts for years. While it only consists of 20 seemingly straightforward steps, it manages to encapsulate almost everything needed for learning to become a Linux systems administrator.
 
 ### :no_entry: NOTICE
 
