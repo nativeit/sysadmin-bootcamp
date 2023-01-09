@@ -58,6 +58,6 @@ The following are tentative ideas for modernizing this to fit more up-to-date st
 
 ---
 
-> This repo includes information from [https://github.com/labdaddy/IConrad](https://github.com/labdaddy/IConrad) and the original Reddit comment can be found [here](https://www.reddit.com/r/linuxadmin/comments/2s924h/comment/cnnw1ma/).
+> _This repo includes information from [https://github.com/labdaddy/IConrad](https://github.com/labdaddy/IConrad) and the original Reddit comment can be found [here](https://www.reddit.com/r/linuxadmin/comments/2s924h/comment/cnnw1ma/)._
 > 
-> Support is unavailable for this repo, and all information is subject to change.
+> _Support is unavailable for this repo, and all information is subject to change._
