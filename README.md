@@ -1,16 +1,14 @@
 # The "IConrad" Linux SysAdmin Bootcamp
 
-This repository serves as an archived record of an incredibly effective curriculum that has been shared among enthusiasts for years. While it only consists of 20 seemingly straightforward steps, it manages to encapsulate almost everything needed for learning to become a Linux systems administrator.
+This repository serves as an archived record of the somewhat legendary "IConrad" guide for learning Linux systems administration skills. Originally posted in r/linuxadmin, it has been shared among enthusiasts for years. While it only consists of 20 seemingly straightforward steps, it manages to encapsulate almost everything needed for learning to become a Linux systems administrator.
 
 ### :no_entry: NOTICE
 
 This guide is now several years old, and while many of its tasks and lessons are still very relevant, the inexorable passing of time has taken its toll, and I do not recommend this anymore as it currently exists. Things like CentOS being ended make much of the specifics uncertain. So I am keeping this as a historical record of my own education, and potentially as a loose rubric for authoring a similar guide with up-to-date information.
 
-_The content below was taken from a Reddit comment ( [`link`](https://www.reddit.com/r/linuxadmin/comments/2s924h/comment/cnnw1ma/) ). It has been modified slightly for readability and spelling, but has not been meaningfully altered._
-
 ## Background
 
-In 2012, I personally used this as a first-pass guide to creating a curriculum to teach myself systems administration fundamentals, and to begin an in-depth education in Linux and servers to broaden my professional credentials and experience, as well as to improve my existing capabilities as a website developer. It turned out to be crucial to those goals, and is one of the more successful endeavors I have ever undertaken. To help with the effort, I opted to install a Linux desktop distribution on my daily-driver PC and immerse myself with the Linux ecosystem. It took me roughly six months from the weekend I set up my home lab to when I took most of it down and moved my servers onto Linode VPS’s.
+I personally used this as a first-pass guide to creating a curriculum to teach myself systems administration fundamentals, and to begin an in-depth education in Linux and servers to broaden my professional credentials and experience, as well as to improve my existing capabilities as a website developer. It turned out to be crucial to those goals, and is one of the more successful endeavors I have ever undertaken. To help with the effort, I opted to install a Linux desktop distribution on my daily-driver PC and immerse myself with the Linux ecosystem. It took me roughly six months from the weekend I set up my home lab to when I took most of it down and moved my servers onto Linode VPS’s.
 
 I began my career a few years later, and to this day the knowledge I picked up remains relevant and invaluable.
 
@@ -59,6 +57,6 @@ The following are tentative ideas for modernizing this to fit more up-to-date st
 
 ---
 
-> _This repo includes information from [https://github.com/labdaddy/IConrad](https://github.com/labdaddy/IConrad) and the original Reddit comment can be found [here](https://www.reddit.com/r/linuxadmin/comments/2s924h/comment/cnnw1ma/)._
+> _This repo includes information from [https://github.com/labdaddy/IConrad](https://github.com/labdaddy/IConrad) and a copy of the original Reddit comment that can be found [here](https://www.reddit.com/r/linuxadmin/comments/2s924h/comment/cnnw1ma/)._
 > 
 > _Support is unavailable for this repo, and all information is subject to change._
